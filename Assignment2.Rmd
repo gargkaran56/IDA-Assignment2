@@ -358,7 +358,7 @@ The plots below show the goodness of fit of the model representing the simulatio
 
 # Question 20: Report R2, Radjusted, AIC, and BIC. Is this a good/bad model? Please explain your answer. (max 30 words) (2pts)
 
-The model generated for the simulation data is a good model.
+The models generated for the simulation data is a good model.
 
 ```{r,eval=TRUE}
 glance(simulation_data_lm) %>% 
